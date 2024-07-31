@@ -1,0 +1,36 @@
+.frontend{
+        // background: #403B4A; 
+        // background: -webkit-linear-gradient(to right, #E7E9BB, #403B4A);  
+        // background: linear-gradient(to right, #E7E9BB, #403B4A);
+
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+}
+.todo{
+        background: #403B4A; 
+        background: -webkit-linear-gradient(to right, #E7E9BB, #403B4A);  
+        background: linear-gradient(to right, #E7E9BB, #403B4A);
+
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+}
+.addTodo{
+        background: #403B4A; 
+        background: -webkit-linear-gradient(to right, #E7E9BB, #403B4A);  
+        background: linear-gradient(to right, #E7E9BB, #403B4A);
+
+        
+}
+.user{
+        background: #403B4A; 
+        background: -webkit-linear-gradient(to right, #E7E9BB, #403B4A);  
+        background: linear-gradient(to right, #E7E9BB, #403B4A);
+
+        min-height: 100vh;
+}
